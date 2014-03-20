@@ -1,0 +1,72 @@
+{
+    "Count": 6,
+    "Results": [
+        {
+            "ContractType": "Address",
+            "AddressId": "545",
+            "CustomerId": "874",
+            "Address1": "12345 Highway",
+            "Address2": "",
+            "Address3": "45678 Road",
+            "Country": "US",
+            "State": "CA",
+            "City": "Pomona",
+            "Zip": 54874,
+            "Phone1": "555-555-5555",
+            "Phone2": null,
+            "Phone3": null,
+            "Fax": "555-555-5555"
+        },
+        {
+            "ContractType": "Customer",
+            "CustomerId": "848",
+            "ShippingAddressId": "54",
+            "BillingAddressId": "billing address",
+            "Name": "Pat",
+            "ShortName": "Pat",
+            "Comment1": "comment",
+            "Comment2": null,
+            "TradeDiscount": "no"
+        },
+        {
+            "ContractType": "Payment",
+            "OrderId": "87",
+            "AmountPaid": 49.1,
+            "AmountRemaining": 48.13,
+            "CreditCardName": "Pat",
+            "AuthorizationCode": "auth",
+            "ReceiptNumberCreditCard": "412320",
+            "CheckNumber": "87445",
+            "DocumentDate": "45/454/45",
+            "ExpirationDate": "5/5/5"
+        },
+        {
+            "ContractType": "Item",
+            "ItemId": "50",
+            "Cost": 25.35,
+            "Description": "Desc",
+            "ShortDescription": "Short Desc",
+            "GenericDescription": null
+        },
+        {
+            "ContractType": "Item",
+            "ItemId": "80",
+            "Cost": 64.25,
+            "Description": "Desc 2",
+            "ShortDescription": "Short Desc 2",
+            "GenericDescription": null
+        },
+        {
+            "ContractType": "Payment",
+            "OrderId": "87",
+            "AmountPaid": 49.1,
+            "AmountRemaining": 48.13,
+            "CreditCardName": "Pat",
+            "AuthorizationCode": "auth",
+            "ReceiptNumberCreditCard": "412320",
+            "CheckNumber": "87445",
+            "DocumentDate": "45/454/45",
+            "ExpirationDate": "5/5/5"
+        }
+    ]
+}
